@@ -1,0 +1,15 @@
+/Users/sujungchoi/Desktop/Coding/C#/Puzzles/bin/Debug/net5.0/Puzzles.deps.json
+/Users/sujungchoi/Desktop/Coding/C#/Puzzles/bin/Debug/net5.0/Puzzles.runtimeconfig.json
+/Users/sujungchoi/Desktop/Coding/C#/Puzzles/bin/Debug/net5.0/Puzzles.runtimeconfig.dev.json
+/Users/sujungchoi/Desktop/Coding/C#/Puzzles/bin/Debug/net5.0/Puzzles.dll
+/Users/sujungchoi/Desktop/Coding/C#/Puzzles/bin/Debug/net5.0/ref/Puzzles.dll
+/Users/sujungchoi/Desktop/Coding/C#/Puzzles/bin/Debug/net5.0/Puzzles.pdb
+/Users/sujungchoi/Desktop/Coding/C#/Puzzles/obj/Debug/net5.0/Puzzles.csprojAssemblyReference.cache
+/Users/sujungchoi/Desktop/Coding/C#/Puzzles/obj/Debug/net5.0/Puzzles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sujungchoi/Desktop/Coding/C#/Puzzles/obj/Debug/net5.0/Puzzles.AssemblyInfoInputs.cache
+/Users/sujungchoi/Desktop/Coding/C#/Puzzles/obj/Debug/net5.0/Puzzles.AssemblyInfo.cs
+/Users/sujungchoi/Desktop/Coding/C#/Puzzles/obj/Debug/net5.0/Puzzles.csproj.CoreCompileInputs.cache
+/Users/sujungchoi/Desktop/Coding/C#/Puzzles/obj/Debug/net5.0/Puzzles.dll
+/Users/sujungchoi/Desktop/Coding/C#/Puzzles/obj/Debug/net5.0/ref/Puzzles.dll
+/Users/sujungchoi/Desktop/Coding/C#/Puzzles/obj/Debug/net5.0/Puzzles.pdb
+/Users/sujungchoi/Desktop/Coding/C#/Puzzles/obj/Debug/net5.0/Puzzles.genruntimeconfig.cache
